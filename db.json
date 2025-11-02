@@ -26,5 +26,14 @@
       { "month": "Sep", "score": 8.5 },
       { "month": "Nov", "score": 8.9 }
     ]
-  }
+  },
+   "settings": [
+    {
+      "id": 1,
+      "reviewScore": 8,
+      "reviewerName": "ghghghh",
+      "feedback": "",
+      "theme": "light"
+    }
+  ]
 }
