@@ -1,0 +1,52 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Mia Taylor",
+      "role": "Senior Developer",
+      "department": "Engineering",
+      "score": 9.5,
+      "goalsMet": 100,
+      "email": "mia.taylor@company.com",
+      "phone": "123-456-7890"
+    },
+    {
+      "id": 2,
+      "name": "Alex Smith",
+      "role": "Jr. Marketing",
+      "department": "Marketing",
+      "score": 6.1,
+      "goalsMet": 55,
+      "email": "alex.smith@company.com",
+      "phone": "321-654-0987"
+    }
+    // Add more employees as needed
+  ],
+  "settings": {
+    "theme": "light",
+    "notifications": true,
+    "companyName": "Performance Hub"
+  },
+  "dashboard": {
+    "teamAverageScore": 8.2,
+    "goalsMetRate": 94,
+    "unreviewedEmployees": 3,
+    "trend": [
+      { "month": "Jan", "score": 6.5 },
+      { "month": "Feb", "score": 6.8 },
+      { "month": "Mar", "score": 7.3 },
+      { "month": "Apr", "score": 7.4 },
+      { "month": "May", "score": 7.7 },
+      { "month": "Jun", "score": 8.0 },
+      { "month": "Jul", "score": 8.2 },
+      { "month": "Aug", "score": 8.3 },
+      { "month": "Sep", "score": 8.5 },
+      { "month": "Oct", "score": 8.7 }
+    ],
+    "metrics": [
+      { "name": "Engineering", "value": 8.7 },
+      { "name": "Marketing", "value": 6.1 },
+      { "name": "Sales", "value": 7.9 }
+    ]
+  }
+}
