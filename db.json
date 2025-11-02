@@ -30,8 +30,7 @@
     { "id": 28, "initials": "WF", "name": "Will Foster", "role": "Support Engineer", "score": 7.4, "goalsMet": 82 },
     { "id": 29, "initials": "KM", "name": "Kate Moore", "role": "Designer", "score": 7.6, "goalsMet": 87 },
     { "id": 30, "initials": "BS", "name": "Ben Scott", "role": "Developer", "score": 7.8, "goalsMet": 90 },
-    { "id": 31, "initials": "CC", "name": "Cara Clark", "role": "QA Analyst", "score": 7.9, "goalsMet": 85 },
-    
+    { "id": 31, "initials": "CC", "name": "Cara Clark", "role": "QA Analyst", "score": 7.9, "goalsMet": 85 }
   ],
   "dashboard": {
     "teamAverageScore": 8.2,
